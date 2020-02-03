@@ -1,0 +1,6 @@
+projectKey=nexit
+serverUrl=http://localhost:9000
+serverVersion=8.1.0.31237
+dashboardUrl=http://localhost:9000/dashboard?id=nexit
+ceTaskId=AW_WvTpYHELYF-Jqfqma
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW_WvTpYHELYF-Jqfqma
