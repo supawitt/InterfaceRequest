@@ -41,7 +41,7 @@ namespace InterfaceRequest.conndb
                     connlist.Add(line);
                 }
 
-                INI_path = connlist[0].ToString();
+                INI_path     = connlist[0].ToString();
                 INI_hostname = connlist[1].ToString();
                 INI_database = connlist[2].ToString();
                 INI_username = connlist[3].ToString();
